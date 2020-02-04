@@ -1,0 +1,19 @@
+{
+  "name": "routerspa",
+  "version": "1.0.0",
+  "description": "Router de una SPA con JavaScrip Vanilla",
+  "main": "routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhoguer/Taller-de-Creaci-n-de-Router-para-Single-Page-App-con-JavaScript.git"
+  },
+  "author": "Jhon Guerrero <jhoguer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhoguer/Taller-de-Creaci-n-de-Router-para-Single-Page-App-con-JavaScript/issues"
+  },
+  "homepage": "https://github.com/jhoguer/Taller-de-Creaci-n-de-Router-para-Single-Page-App-con-JavaScript#readme"
+}
